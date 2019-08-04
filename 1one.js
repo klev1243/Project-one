@@ -1,0 +1,5 @@
+let slideIndex = 1,
+    slides = document.getElementsByClassName('slider-item'),
+    prev = document.querySelector('.prev'),
+    next = document.querySelector(.next),
+    dotaWrap = document.querySelector(.slider-dots'),
